@@ -1,0 +1,5 @@
+# 忽略eslint检查的文件或目录
+
+build
+node_modules
+src/serviceWorker.ts
